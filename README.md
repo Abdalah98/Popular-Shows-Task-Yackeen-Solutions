@@ -13,6 +13,7 @@ This my Task I Use the TVmaze API - No authentication needed (http://api.tvmaze.
 ##UI
 
 ####screenShots about the run app 
+
 #Dark Mode
 
 ![ezgif com-gif-maker](https://user-images.githubusercontent.com/41602889/147304779-414eaf0a-1a38-4260-8e49-989a24e124ce.gif)
